@@ -7,7 +7,7 @@ decorator==4.4.2
 entrypoints==0.3
 graphviz==0.14
 ipykernel==5.1.4
-ipython==7.13.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 jedi==0.17.0
 joblib==0.15.1
